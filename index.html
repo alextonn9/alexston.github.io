@@ -1,37 +1,27 @@
----
-layout: default
----
-
-<div class="main-post-list hidden">
-
-  <ol class="post-list">
-    <!--置顶-->
-    {% for post in site.posts %}
-      {% if post.istop %}
-        {% if paginator.page == 1 %}
-        <li>
-          <h2 class="post-list__post-title post-title"><a href="{{ post.url }}" title="访问 {{ post.title }}">[置顶]{{ post.title }}</a></h2>
-          <p class="excerpt">{{ post.content | strip_html | strip_newlines | truncate: 260 }}&hellip;</p>
-          <div class="post-list__meta"><time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__meta--date date">{{ post.date | date: "%F"}}</time> &#8226; <span class="post-list__meta--tags tags">{{ post.category }}</span> <a class="btn-border-small" href={{ post.url }}>继续阅读</a></div>
-          <hr class="post-list__divider" />
-        </li>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    <!--普通文档流-->
-    {% for post in paginator.posts %}
-    {% if post.hide %}
-    {% else %}
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="{{ post.url }}" title="访问 {{ post.title }}">{{ post.title }}</a></h2>
-        <p class="excerpt">{{ post.content | strip_html | strip_newlines | truncate: 260 }}&hellip;</p>
-        <div class="post-list__meta"><time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__meta--date date">{{ post.date | date: "%F"}}</time> &#8226; <span class="post-list__meta--tags tags">{{ post.category }}</span> <a class="btn-border-small" href={{ post.url }}>继续阅读</a></div>
-        <hr class="post-list__divider" />
-      </li>
-    {% endif %}
-    {% endfor %}
-  </ol>
-
-  {% include pagination.html %}
-
-</div>
+<!doctype html>
+<html lang="zh-cn">
+	<head>
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+		<meta http-equiv="Content-Type" content="text/html; charset = UTF-8" />
+		<title>丁辉的魔法小屋</title>
+		<style>
+			body {
+				overflow: hidden;
+				background-color: #000000;
+				user-select: none;
+				-webkit-user-select: none;
+				-moz-user-select: none;
+				-o-user-select: none;
+				-ms-user-select: none;
+			}
+		</style>
+	</head> 
+	<body>
+	<a href="bo.html" style="underline:none;"><div id="canvas"></div></a>
+	<!-- <div class="footer-banner" style="position:absolute;bottom:-300px;left:-200px;width:728px; margin:30px auto"></div> -->
+	<script src="./assets/protoclass.js"></script>
+	<script src='./assets/box2d.js'></script>
+	<script src='./assets/Main.js'></script>
+	</body>
+</html>
