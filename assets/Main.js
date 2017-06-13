@@ -45,7 +45,6 @@ function init() {
 	document.onmouseup = onDocumentMouseUp;
 	document.onmousemove = onDocumentMouseMove;
 	document.ondblclick = onDocumentDoubleClick;
-	document.onclick = onDocumentClick;
 
 	document.addEventListener( 'touchstart', onDocumentTouchStart, false );
 	document.addEventListener( 'touchmove', onDocumentTouchMove, false );
@@ -63,10 +62,6 @@ function init() {
 
 	setWalls();
 	reset();
-}
-
-function onDocumentClick() {
-	window.location.href = '/bo.html'
 }
 
 function play() {
@@ -223,7 +218,7 @@ function createInstructions() {
 
 	text = document.createElement( 'div' );
 	text.onSelectStart = null;
-	text.innerHTML = '<span style="color:' + theme[0] + ';font-size:26px;">姜婷婷：</span><br /><span style="font-size:15px;"><br />1. 我的爱就像这球；<br />2.点一下；<br />3. 晃一下；<br />4. 多点几下；<br />5. 点背景啊。</span>';
+	text.innerHTML = '<a href="bo.html" style=""><span style="color:' + theme[0] + ';font-size:26px;">姜婷婷：</span></a><br /><span style="font-size:15px;"><br />1. 我的爱就像这球；<br />2.点一下；<br />3. 晃一下；<br />4. 多点几下；<br />5. 点背景啊。</span>';
 	text.style.color = theme[1];
 	text.style.position = 'absolute';
 	text.style.left = '0px';
