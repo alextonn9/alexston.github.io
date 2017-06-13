@@ -5,7 +5,7 @@ category: Info
 date: 2016-11-08 00:00:00.000000000 +08:00
 tags: icurious, info
 keywords: icurious,icurious
-excerpt: Hi,你好,我是icurious,一名小小的见习魔法师,目前还在魔法学校学习,致力于基础魔法的研究和应用,努力成为一名优秀的魔法师。
+excerpt: Hi,你好,我是jttDh,一名小小的见习魔法师,目前还在魔法学校学习,致力于基础魔法的研究和应用,努力成为一名优秀的魔法师。
 ---
 
 ******
