@@ -23,10 +23,10 @@ excerpt: Hi,你好,我是jttDh,一名小小的见习魔法师,目前还在魔法
 ### 我活动的平台(有些不常用)
 
 <strong>
-| [微博](http://weibo.com/jttDh)
-| [GitHub](https://github.com/jttDh)
+| [微博](http://weibo.com/alexston)
+| [GitHub](https://github.com/alexston)
 | [简书](http://www.jianshu.com/users/6b3b370657dd)
-| [知乎](https://https://www.zhihu.com/people/geek-xiao-dian-di-49)
+| [知乎](https://https://www.zhihu.com/people/alexston)
 | [CSDN](http://blog.csdn.net/jttDh)
 | 
 </strong>
