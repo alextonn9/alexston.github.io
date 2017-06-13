@@ -123,7 +123,7 @@ function onDocumentMouseMove( event ) {
 }
 
 function onDocumentClick() {
-	window.location.href = './boke.html';
+	window.location.href = '';
 }
 
 function onDocumentDoubleClick() {
