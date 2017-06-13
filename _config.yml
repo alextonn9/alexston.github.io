@@ -23,7 +23,7 @@ blog_button:
 nav:
     #- {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
-    - {title: 目录,        in_site: true,  description: 博客目录,                 url: '/timeline'}
+    - {title: 音乐,        in_site: true,  description: 娱乐区,                 url: '/music.html'}
     - {title: DH魔法,       in_site: false,  description: dh's fantastic,   url: '/index-tem.html'}
     - {title: JTT记录,     in_site: false,  description: icurious's GitHub,      url: '/index-jtt.html'}
     - {title: 大魔法师,   in_site: true,  description: 大魔法师,                  url: '/friends'}
