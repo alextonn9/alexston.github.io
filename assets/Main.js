@@ -45,6 +45,7 @@ function init() {
 	document.onmouseup = onDocumentMouseUp;
 	document.onmousemove = onDocumentMouseMove;
 	document.ondblclick = onDocumentDoubleClick;
+	document.onclick = onDocumentClick;
 
 	document.addEventListener( 'touchstart', onDocumentTouchStart, false );
 	document.addEventListener( 'touchmove', onDocumentTouchMove, false );
@@ -64,6 +65,9 @@ function init() {
 	reset();
 }
 
+function onDocumentClick() {
+	window.location.href = './bokeindex.html'
+}
 
 function play() {
 
