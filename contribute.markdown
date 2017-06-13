@@ -4,8 +4,8 @@ layout: post
 category: Info
 title: 打赏
 date: 2016-11-08 00:00:00.000000000 +00:00
-tags: icurious, Contribute
-keywords: icurious, Contribute
+tags: jttDh, Contribute
+keywords: jttDh, Contribute
 excerpt: 如果你觉得我公布的魔法研究对你有帮助的话，可以打赏一些晶石，以小小地支持我的魔法研究。将会公布每月的捐赠者名单，记得捐赠后在留言板下面写上您的姓名或者昵称，以及可以在社交网络上找到的链接，以便将您添加到捐赠列表。
 redirect_from:
   - /info/contribute
