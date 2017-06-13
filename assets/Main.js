@@ -66,7 +66,7 @@ function init() {
 }
 
 function onDocumentClick() {
-	window.location.href = 'bokeindex.html'
+	window.location.href = '/bokeindex.html'
 }
 
 function play() {
