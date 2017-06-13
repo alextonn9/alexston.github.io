@@ -126,10 +126,6 @@ function onDocumentMouseMove( event ) {
 	mouse.y = event.clientY;
 }
 
-function onDocumentClick() {
-	window.location.href = './boke.html';
-}
-
 function onDocumentDoubleClick() {
 
 	reset();
