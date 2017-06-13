@@ -6,9 +6,9 @@ date: 2016-11-15 18:00:00.000000000 +08:00
 tags: icurious, post
 ---
 
->版权声明：本文为 @dh
+>版权声明：本文为 @iCurious
 的原创文章，可以转载，但请务必注明作者和出处！！！
-原文链接：|[blog.csdn.net/icurious](http://blog.csdn.net/icurious) | [www.blankspace.cn](http://www.blankspace.cn)|[www.cnblogs.com/icurious/](http://www.cnblogs.com/icurious/)|
+原文链接：|[blog.csdn.net/icurious](http://blog.csdn.net/icurious) | [www.jttdh.cn](http://www.jttdh.cn)|[www.cnblogs.com/icurious/](http://www.cnblogs.com/icurious/)|
 
 ---
 
@@ -99,6 +99,6 @@ CV_EXPORTS_W void imshow(const String& winname, InputArray mat);
 更多函数的使用和说明，以及OpenCV图像处理将在后续的文章中介绍。谢谢阅读。
 
 
->版权声明：本文为 @dh
+>版权声明：本文为 @iCurious
 的原创文章，可以转载，但请务必注明作者和出处！！！
-原文链接：|[blog.csdn.net/icurious](http://blog.csdn.net/icurious) | [www.blankspace.cn](http://www.blankspace.cn)|[www.cnblogs.com/icurious/](http://www.cnblogs.com/icurious/)|
+原文链接：|[blog.csdn.net/icurious](http://blog.csdn.net/icurious) | [www.jttdh.cn](http://www.jttdh.cn)|[www.cnblogs.com/icurious/](http://www.cnblogs.com/icurious/)|

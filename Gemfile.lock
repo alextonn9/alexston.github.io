@@ -1,5 +1,5 @@
 GEM
-  remote: http://blankspace.cn/
+  remote: http://jttdh.cn/
   specs:
     colorator (1.1.0)
     ffi (1.9.14)
