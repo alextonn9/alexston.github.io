@@ -8,7 +8,7 @@ tags: GitHub使用技巧 , 网站搭建
 
 ---
 
->版权声明：本文为 @icurious
+>版权声明：本文为 @dh
 的原创文章，可以转载，但请务必注明作者和出处！！！
 原文链接：[www.blankspace.cn](http://www.blankspace.cn/2016/11/build-up-one-website/)
 
@@ -111,7 +111,7 @@ http://主机记录值.域名
 
 当然由于是开源的项目，此时的界面是大牛[@onecat](https://github.com/onevcat)的样式和内容，距离文章开头的样式还需要进行一定的修改。至于如何修改，以及往其中添加新的页面，如何进行文章的更新，将在以后进行介绍。感谢你的阅读。
 
->版权声明：本文为 @icurious
+>版权声明：本文为 @dh
 的原创文章，可以转载，但请务必注明作者和出处！！！
 原文链接：[www.blankspace.cn](http://www.blankspace.cn)
 
