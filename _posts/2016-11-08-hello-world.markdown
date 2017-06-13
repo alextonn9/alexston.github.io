@@ -21,7 +21,7 @@ redirect_from:
 
 #### 声明和鸣谢
 
-本站使用了**'Vno Jekyll'** 的主题，它的源代码可以在 [Vno Jekyll](https://github.com/onevcat/vno-jekyll) 上找到，它最初的版本来自于 [Dale Anthony's Uno](https://github.com/daleanthony/uno).
+本站使用了好多图片，漂亮的图片来源于美丽的人儿你们可以在画旅途上找到，它最初的版本来自于 画旅途
 
-感谢大魔法师**@[onecat](https://github.com/onevcat)** 和**@[GcsSloop](https://github.com/GcsSloop)** 在GitHub上无私地提供开源代码，让更多的人感受到魔法的奇妙，并用来更好地发掘生活中的乐趣，并感染他人。
+感谢大魔法师**@[jtt]** 让我感受人生的美妙，让更多的人感受到魔法的奇妙，并用来更好地发掘生活中的乐趣，并感染他人。
 
