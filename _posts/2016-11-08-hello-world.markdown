@@ -2,7 +2,7 @@
 layout: post
 category: Info
 title: Hello world
-date: 2016-11-08 15:55:24.000000000 +08:00
+date: 2017-06-20 15:55:24.000000000 +08:00
 tags: lbhdh, info
 keywords: lbhdh, lbhdh
 redirect_from:
