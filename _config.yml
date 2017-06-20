@@ -24,7 +24,6 @@ nav:
     #- {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
     - {title: 音乐,        in_site: true,  description: 娱乐区,                 url: '/music.html'}
-    - {title: 游戏,        in_site: true,  description: 游戏区,                 url: '/games.html'}
     - {title: DH魔法,       in_site: false,  description: dh's fantastic,   url: '/index-tem.html'}
     - {title: LBH记录,     in_site: false,  description: lbhdh's GitHub,      url: '/index-lbh.html'}
     - {title: 大魔法师,   in_site: true,  description: 大魔法师,                  url: '/friends'}
