@@ -17,8 +17,8 @@ excerpt: Hi,你好,我是lbhdh,一名小小的见习魔法师,目前还在魔法
 你可以通过以下几种方式联系到我。
 
 * [微博私信](http://weibo.com/lbhdh)
-* [发邮件](1612099539@qq.com)
-* [发评论](/messageWord.html)
+* [发邮件](http://1612099539@qq.com)
+* [发评论](http://zhenker.cn/messageWord.html)
 
 ### 我活动的平台(有些不常用)
 
