@@ -1,11 +1,11 @@
 # Basic
-title: jttDh
+title: lbhdh
 subtitle: 行万里路，读万卷书.
-welcome_message: <a href="http://jttdh.cn/biaobai.html" target="_blank">欢迎到我的小站来做客！</a>
-description: Hi,你好,我是jttDh,一名小小的见习魔法师,目前还在魔法学校学习,致力于基础魔法的研究和应用,努力成为一名优秀的魔法师。
-creator: <a href="http://www.jttdh.cn">@jttDh</a>
+welcome_message: <a href="http://lbhdh.cn/biaobai.html" target="_blank">欢迎到我的小站来做客！</a>
+description: Hi,你好,我是lbhdh,一名小小的见习魔法师,目前还在魔法学校学习,致力于基础魔法的研究和应用,努力成为一名优秀的魔法师。
+creator: <a href="http://www.lbhdh.cn">@lbhdh</a>
 
-url: "http://www.jttdh.cn"
+url: "http://www.lbhdh.cn"
 
 permalink: /:year/:month/:title/
 
@@ -25,7 +25,7 @@ nav:
     # - {title: Another Button, description: A button, url: 'http://example.com'}
     - {title: 音乐,        in_site: true,  description: 娱乐区,                 url: '/music.html'}
     - {title: DH魔法,       in_site: false,  description: dh's fantastic,   url: '/index-tem.html'}
-    - {title: JTT记录,     in_site: false,  description: jttDh's GitHub,      url: '/index-jtt.html'}
+    - {title: JTT记录,     in_site: false,  description: lbhdh's GitHub,      url: '/index-jtt.html'}
     - {title: 大魔法师,   in_site: true,  description: 大魔法师,                  url: '/friends'}
     - {title: 留言板,   in_site: true,  description: 留言板,                  url: '/messageWord.html'}
     - {title: 关于,        in_site: true,  description: 关于作者dh,        url: '/about'}
@@ -37,7 +37,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: jttDh
+    disqus: lbhdh
     # duoshuo: 
     
 # Social
@@ -48,9 +48,9 @@ social:
     gplus: 112373242775367333102
     rss: /feed.xml
     mail: 1612099539@qq.com
-  # copyright: http://blog.csdn.net/jttDh
+  # copyright: http://blog.csdn.net/lbhdh
 
 # Google Analytics
 ga:
     id: UA-86995833-1
-    host: www.jttdh.cn
+    host: www.lbhdh.cn
