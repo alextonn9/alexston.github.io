@@ -17,17 +17,17 @@ excerpt: Hi,你好,我是lbhdh,一名小小的见习魔法师,目前还在魔法
 你可以通过以下几种方式联系到我。
 
 * [微博私信](http://weibo.com/lbhdh)
-* [发邮件](mailto:nihaoworld@outlook.com)
-* 发评论
+* [发邮件](email: 1612099539@qq.com)
+* [发评论](discuss: zhenker.cn/messageWord.html)
 
 ### 我活动的平台(有些不常用)
 
 <strong>
-| [微博](http://weibo.com/dh)
-| [GitHub](https://github.com/dh)
-| [简书](http://www.jianshu.com/users/6b3b370657dd)
-| [知乎](https://https://www.zhihu.com/people/dh)
-| [CSDN](http://blog.csdn.net/dh)
+| [微博](http://weibo.com/alexston)
+| [GitHub](https://github.com/alexston)
+| [简书](http://www.jianshu.com/users/alexston)
+| [知乎](https://https://www.zhihu.com/people/alexston)
+| [CSDN](http://blog.csdn.net/lbhdh)
 | 
 </strong>
 
