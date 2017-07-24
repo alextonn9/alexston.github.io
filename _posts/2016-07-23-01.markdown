@@ -6,7 +6,7 @@ date: 2017-06-22 15:55:24.000000000 +08:00
 tags: 高兴, info
 keywords: 高兴, 高兴
 redirect_from:
-  - /2017/12/about/
+  - /2017/11/about/
 ---
 
 ## 要解释吗
