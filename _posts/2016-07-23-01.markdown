@@ -2,7 +2,7 @@
 layout: post
 category: Info
 title: 高兴误会我了
-date: 2017-07-22 15:55:24.000000000 +08:00
+date: 2017-06-22 15:55:24.000000000 +08:00
 tags: 高兴, info
 keywords: 高兴, 高兴
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 ## 要解释吗
-爱是信任啊
+爱是信任啊,还好当时的记录还在
 <img src="/assets/images/22.jpg"/>
 
 
