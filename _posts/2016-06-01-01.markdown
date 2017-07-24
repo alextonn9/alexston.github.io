@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Info
-title:高兴我想结婚了
+title: 高兴我想结婚了
 date: 2017-06-01 15:55:24.000000000 +08:00
 tags: 高兴, info
 keywords: 高兴, 高兴

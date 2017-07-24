@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Info
-title:同事的婚礼
+title: 同事的婚礼
 date: 2017-05-31 15:55:24.000000000 +08:00
 tags: 高兴, info
 keywords: 高兴, 高兴
