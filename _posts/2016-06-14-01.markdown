@@ -1,0 +1,14 @@
+---
+layout: post
+category: Info
+title:高兴出差了
+date: 2017-06-08 15:55:24.000000000 +08:00
+tags: 高兴, info
+keywords: 高兴, 高兴
+redirect_from:
+  - /2017/11/about/
+---
+
+## 快回来吧
+高兴，你快回来看我一眼啊，我想你了
+
