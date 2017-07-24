@@ -1,0 +1,16 @@
+---
+layout: post
+category: Info
+title:煎鸡蛋
+date: 2017-04-19 15:55:24.000000000 +08:00
+tags: 高兴, info
+keywords: 高兴, 高兴
+redirect_from:
+  - /2017/11/about/
+---
+
+## 高兴给我煎了两个鸡蛋
+大半夜的，高兴知道我没吃饭，给我煎了两个鸡蛋，好开心啊。
+
+
+
